@@ -2,7 +2,7 @@
 
 ## Tema
 
-##Proposta Inicial
+#Proposta Inicial
  Cadastro de uma prestação de serviço (oferecimento) e busca por proximidade (cuidadores de idosos, serviços de suporte de TI, e localização no mapa - API Google Maps)
  
 #Proposta Adaptada 
@@ -12,7 +12,7 @@ A ênfase maior seria para profissionais, por exemplo, nutricionistas, terapeuta
 A plataforma consiste em fornecer um ambiente em que seus usuários/paciente que procuram por um tipo de serviço nas áreas citadas acima pudessem tem facilidade em encontrar um serviço bom e próximo.  
 
 
-##Funcionalidades implementadas
+#Funcionalidades implementadas
 * Pesquisa de Profissionais por Especialidade
 * Login com validação no servidor e no Front-End
 * Cadastro de Usuário com validação no Front-End
