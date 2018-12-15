@@ -27,3 +27,12 @@ Funcionalidades Pendentes
 * Área Administrativa não foi implementada
 * Área do Profissional não foi implementada
 * Filtros Específicos de busca como (Preço, sexo,...)
+
+## Softwares e FrameWorks utilizdados
+* BootStrap versão 4.1.3
+* WorkBench 6.3<br>
+* WampServer 3.1.0
+* MySQL 5.7.19
+* Apache 2.4.27 - PHP 7.1.9
+* Navegador Google Chrome - Versão 70.0.3538.110 (Versão oficial) 
+* NetBeans 8.2
