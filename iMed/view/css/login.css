@@ -1,0 +1,34 @@
+.container-fluid {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    height: 300px;
+    
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.campos {
+    margin-top: 50px;
+}
+
+.logar {
+    width: 100%;
+}
+.voltar {
+    width: 30%;
+    margin-left: 5px;
+}
+
+.campos .link {
+    margin-top: 25px;  
+}
